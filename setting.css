@@ -1,0 +1,33 @@
+.setting {
+margin: 0;
+padding: 0;
+ list-style: none;
+ font-family: arial,  sans-serif;
+ font-size: 13px;
+
+}
+h3{
+    
+    color: cadetblue;
+}
+h6{
+    color: #ff6b6b;
+}
+.setting li{
+    float:left;
+    border-right: 1px solid #fff;
+    margin-left: 50px;
+} 
+
+.setting a {
+    display:block;
+    padding :0 10px;
+    color: #576574;
+    text-decoration: none;
+
+} 
+
+ a:hover,.active a{
+    background-color:#ff6b6b ;
+} 
+
